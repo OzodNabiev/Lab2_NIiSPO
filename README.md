@@ -5,8 +5,11 @@
 ## Коммуникация в многоконтейнерных системах
 
 !\[Docker](https://img.shields.io/badge/Docker-29.8.0-2496ED?logo=docker\&logoColor=white)
+
 !\[Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python\&logoColor=white)
+
 !\[RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.13-FF6600?logo=rabbitmq\&logoColor=white)
+
 !\[PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql\&logoColor=white)
 
 **Дисциплина:** Непрерывное интегрирование и сборка программного обеспечения  
